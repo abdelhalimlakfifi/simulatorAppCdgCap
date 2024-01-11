@@ -1,0 +1,117 @@
+2024-01-10T17:03:21.793+01:00  INFO 10280 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 10280 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:03:21.796+01:00  INFO 10280 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:03:22.806+01:00  INFO 10280 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:03:22.806+01:00  INFO 10280 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:03:22.897+01:00  INFO 10280 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:03:23.577+01:00  INFO 10280 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.312 seconds (process running for 3.244)
+2024-01-10T17:04:01.877+01:00  INFO 10280 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:04:01.877+01:00  INFO 10280 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:04:01.878+01:00  INFO 10280 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-01-10T17:04:01.911+01:00  INFO 10280 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an info message.
+2024-01-10T17:04:01.912+01:00 ERROR 10280 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an error message.
+2024-01-10T17:04:20.257+01:00  INFO 10280 --- [http-nio-8080-exec-3] c.s.s.controllers.SimulationController   : This is an info message.
+2024-01-10T17:04:20.258+01:00 ERROR 10280 --- [http-nio-8080-exec-3] c.s.s.controllers.SimulationController   : This is an error message.
+2024-01-10T17:06:06.637+01:00  INFO 23040 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 23040 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:06:06.639+01:00  INFO 23040 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:06:06.704+01:00  INFO 23040 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-10T17:06:06.705+01:00  INFO 23040 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-10T17:06:07.933+01:00  INFO 23040 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-01-10T17:06:07.953+01:00  INFO 23040 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:06:07.954+01:00  INFO 23040 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:06:08.008+01:00  INFO 23040 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:06:08.008+01:00  INFO 23040 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1302 ms
+2024-01-10T17:06:08.464+01:00  INFO 23040 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-10T17:06:08.508+01:00  INFO 23040 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-01-10T17:06:08.522+01:00  INFO 23040 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.489 seconds (process running for 3.28)
+2024-01-10T17:06:35.993+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 11016 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:06:36.002+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:06:37.021+01:00  INFO 11016 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:06:37.022+01:00  INFO 11016 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:06:37.074+01:00  INFO 11016 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:06:37.522+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.025 seconds (process running for 2.979)
+2024-01-10T17:06:47.957+01:00  INFO 11016 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:06:47.958+01:00  INFO 11016 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:06:47.959+01:00  INFO 11016 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-01-10T17:06:47.987+01:00  INFO 11016 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an info message.
+2024-01-10T17:06:47.987+01:00 ERROR 11016 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an error message.
+2024-01-10T17:08:00.099+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 11016 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:08:00.100+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:08:00.414+01:00  INFO 11016 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:08:00.415+01:00  INFO 11016 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:08:00.436+01:00  INFO 11016 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:08:00.545+01:00  INFO 11016 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 0.479 seconds (process running for 86.002)
+2024-01-10T17:08:40.482+01:00  INFO 7496 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 7496 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:08:40.485+01:00  INFO 7496 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:08:41.704+01:00  INFO 7496 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:08:41.705+01:00  INFO 7496 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:08:41.797+01:00  INFO 7496 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:08:42.342+01:00  INFO 7496 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.437 seconds (process running for 3.514)
+2024-01-10T17:08:49.384+01:00  INFO 7496 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:08:49.384+01:00  INFO 7496 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:08:49.385+01:00  INFO 7496 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-01-10T17:08:49.409+01:00  INFO 7496 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an info message.
+2024-01-10T17:08:49.410+01:00 ERROR 7496 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : This is an error message.
+2024-01-10T17:08:49.410+01:00  INFO 7496 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : Execution Time: 0 ms
+2024-01-10T17:10:15.479+01:00  INFO 1256 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 1256 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:10:15.487+01:00  INFO 1256 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:10:16.685+01:00  INFO 1256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:10:16.686+01:00  INFO 1256 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:10:16.782+01:00  INFO 1256 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:10:17.374+01:00  INFO 1256 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.444 seconds (process running for 3.208)
+2024-01-10T17:10:21.697+01:00  INFO 22604 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 22604 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:10:21.702+01:00  INFO 22604 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:10:23.084+01:00  INFO 22604 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:10:23.084+01:00  INFO 22604 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:10:23.288+01:00  INFO 22604 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:10:23.870+01:00  INFO 22604 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.78 seconds (process running for 3.579)
+2024-01-10T17:13:03.129+01:00  INFO 6512 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 6512 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:13:03.132+01:00  INFO 6512 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:13:04.637+01:00  INFO 6512 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:13:04.639+01:00  INFO 6512 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:13:04.732+01:00  INFO 6512 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:13:05.477+01:00  INFO 6512 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 3.085 seconds (process running for 4.323)
+2024-01-10T17:13:18.646+01:00  INFO 6512 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:13:18.647+01:00  INFO 6512 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:13:18.648+01:00  INFO 6512 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-01-10T17:13:18.687+01:00  INFO 6512 --- [http-nio-8080-exec-1] c.s.s.controllers.SimulationController   : Time taken for calculation is: 1.7E-6 seconds
+2024-01-10T17:15:49.585+01:00  INFO 17320 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 17320 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:15:49.588+01:00  INFO 17320 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:15:51.172+01:00  INFO 17320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:15:51.172+01:00  INFO 17320 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:15:51.274+01:00  INFO 17320 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:15:51.909+01:00  INFO 17320 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 3.016 seconds (process running for 3.847)
+2024-01-10T17:15:54.638+01:00  INFO 17320 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:15:54.639+01:00  INFO 17320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:15:54.641+01:00  INFO 17320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-01-10T17:15:54.667+01:00  INFO 17320 --- [http-nio-8080-exec-1] c.s.s.controllers.SimulationController   : Time taken for calculation is: 0 seconds
+2024-01-10T17:16:01.716+01:00  INFO 17320 --- [http-nio-8080-exec-3] c.s.s.controllers.SimulationController   : Time taken for calculation is: 0 seconds
+2024-01-10T17:16:19.241+01:00  INFO 17320 --- [http-nio-8080-exec-4] c.s.s.controllers.SimulationController   : Time taken for calculation is: 0 seconds
+2024-01-10T17:17:21.876+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 3860 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:17:21.878+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:17:23.212+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:17:23.213+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:17:23.284+01:00  INFO 3860 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:17:23.754+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 2.434 seconds (process running for 3.169)
+2024-01-10T17:17:29.355+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:17:29.356+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:17:29.358+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-01-10T17:17:32.710+01:00  INFO 3860 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : Time taken for calculation is: 3321 seconds
+2024-01-10T17:17:51.870+01:00  INFO 3860 --- [http-nio-8080-exec-3] c.s.s.controllers.SimulationController   : Time taken for calculation is: 3206 seconds
+2024-01-10T17:18:04.815+01:00  INFO 3860 --- [http-nio-8080-exec-4] c.s.s.controllers.SimulationController   : Time taken for calculation is: 3630 seconds
+2024-01-10T17:18:04.970+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 3860 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:18:04.971+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:18:05.398+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:18:05.398+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:18:05.415+01:00  INFO 3860 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:18:05.575+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 0.67 seconds (process running for 44.991)
+2024-01-10T17:18:07.079+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Starting SimulatepocApplication using Java 17.0.9 with PID 3860 (C:\Users\abdel\Desktop\DXC\POC\simulatepoc\target\classes started by abdel in C:\Users\abdel\Desktop\DXC\POC\simulatepoc)
+2024-01-10T17:18:07.080+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T17:18:07.361+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-10T17:18:07.363+01:00  INFO 3860 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-10T17:18:07.393+01:00  INFO 3860 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-10T17:18:07.521+01:00  INFO 3860 --- [restartedMain] c.s.simulatepoc.SimulatepocApplication   : Started SimulatepocApplication in 0.478 seconds (process running for 46.936)
+2024-01-10T17:18:10.101+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-10T17:18:10.101+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-10T17:18:10.102+01:00  INFO 3860 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-01-10T17:18:10.105+01:00  INFO 3860 --- [http-nio-8080-exec-2] c.s.s.controllers.SimulationController   : Time taken for calculation is: 0 seconds
+2024-01-10T17:18:13.795+01:00  INFO 3860 --- [http-nio-8080-exec-3] c.s.s.controllers.SimulationController   : Time taken for calculation is: 0 seconds
